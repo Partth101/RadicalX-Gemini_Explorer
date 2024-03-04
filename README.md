@@ -5,33 +5,33 @@ This Streamlit application allows you to interact with Google's Gemini language 
 
 Features:
 
- • Chat interface for conversation with ReX
- • User name personalization
- • Persistent chat history across sessions
- • Emoji support (for potentially more interactive experiences)
+ • Chat interface for conversation with ReX<br>
+ • User name personalization<br>
+ • Persistent chat history across sessions<br>
+ • Emoji support (for potentially more interactive experiences)<br>
   
 Requirements:
- • Python 3.x
- • vertexai package (refer to installation instructions below)
- • streamlit package (refer to installation instructions below)
+ • Python 3.x<br>
+ • vertexai package (refer to installation instructions below)<br>
+ • streamlit package (refer to installation instructions below)<br>
 
 Installation:
- • Install required packages:
- • Bash
- • pip install vertexai streamlit
- • Use code with caution.
- • Set up Vertex AI project:
- • Create a Vertex AI project on Google Cloud Platform (GCP).
- • Install the Vertex AI SDK following the official guide: https://cloud.google.com/python/docs/reference/aiplatform/latest
- • Set the project variable in the code at the top to your Vertex AI project ID.
+ • Install required packages:<br>
+ • Bash<br>
+ • pip install vertexai streamlit<br>
+ • Use code with caution.<br>
+ • Set up Vertex AI project:<br>
+ • Create a Vertex AI project on Google Cloud Platform (GCP).<br>
+ • Install the Vertex AI SDK following the official guide: https://cloud.google.com/python/docs/reference/aiplatform/latest<br>
+ • Set the project variable in the code at the top to your Vertex AI project ID.<br>
 
 Usage:
- • Run the application:
- • Bash
- • streamlit run app.py
- • Use code with caution.
- • Enter your name: Type your name in the text input field and press Enter.
- • Start chatting: Ask ReX questions or provide prompts in the chat input field. ReX will respond with its output, personalized with your name.
+ • Run the application:<br>
+ • Bash<br>
+ • streamlit run app.py<br>
+ • Use code with caution.<br>
+ • Enter your name: Type your name in the text input field and press Enter.<br>
+ • Start chatting: Ask ReX questions or provide prompts in the chat input field. ReX will respond with its output, personalized with your name.<br>
 
 Additional Notes:
 
